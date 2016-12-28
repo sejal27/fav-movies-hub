@@ -19,3 +19,6 @@ Sejal Parikh
 
 # Troubleshooting
 If the file does not open in your default webbrowser, try to open the html file in Firefox or Chrome. Contact sejalrparikh@gmail.com for any other issues.
+
+# License
+GNU General Public License v3
