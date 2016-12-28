@@ -3,12 +3,12 @@
 # The Hub of my Forever Favorite Movies!
 
 ## Table of Contents
-- [Background](#Introduction)
-- [Author](#Author)
-- [How to Use](#How to Use)
-- [Source Files](#Source Files)
-- [Troubleshooting](#Troubleshooting)
-- [License](#License)
+- [Background](#background)
+- [Author](#author)
+- [How to Use](#how-to-use)
+- [Source Files](#source-files)
+- [Troubleshooting](#troubleshooting)
+- [License](#license)
 
 ## Background
 This code launches a webpage that displays some of my forever favorite movies, along with a short storyline of each movie. You can click on the movie to watch the trailer. 
