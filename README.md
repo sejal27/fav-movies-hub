@@ -1,8 +1,20 @@
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
 # The Hub of my Forever Favorite Movies!
+
+## Table of Contents
+- [Background](#Introduction)
+- [Author](#Author)
+- [How to Use](#How to Use)
+- [Source Files](#Source Files)
+- [Troubleshooting](#Troubleshooting)
+- [License](#License)
+
+## Background
 This code launches a webpage that displays some of my forever favorite movies, along with a short storyline of each movie. You can click on the movie to watch the trailer. 
 
 # Author
-Sejal Parikh
+[Sejal Parikh](https://in.linkedin.com/in/sejalparikh)
 
 # How to Use
 1. Download all the files in the same folder.
@@ -21,4 +33,4 @@ Sejal Parikh
 If the file does not open in your default webbrowser, try to open the html file in Firefox or Chrome. Contact sejalrparikh@gmail.com for any other issues.
 
 # License
-GNU General Public License v3
+[GNU General Public License v3](../LICENSE)
