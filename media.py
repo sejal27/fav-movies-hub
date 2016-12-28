@@ -16,9 +16,8 @@ class Movie():
         trailer_youtube_url: Youtube link to the official movie trailer
 
     Functions:
-        __init__: Takes title, storyline, poster_image_url, and trailer_youtube_url respectively as attributes and
-                  Creates a new instance of the Movie.
-        show_trailer: Opens the youtube trailer from the link given in trailer_youtube_url"""
+        __init__: Takes title, storyline, poster_image_url, and trailer_youtube_url respectively
+                  as attributes and creates a new instance of the Movie."""
 
     VALID_RATINGS = ["G", "PG", "PG-13"] #Class variable
 
@@ -27,8 +26,3 @@ class Movie():
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
-
-    def show_trailer(self):
-        """This function opens the youtube trailer from the link given in the trailer_youtube_url"""
-        webbrowser.open(self.trailer_youtube_url)
-    
